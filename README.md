@@ -5,3 +5,5 @@ matplotlib==3.10.3,
 scipy==1.16.0
 
 The file runs without need to install any packages if it is run in Google Colab, where it was originally created.
+
+All code was created with the aid of Gemini based on the proofs detailed in the associated paper.
